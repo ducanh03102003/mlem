@@ -1,4 +1,2 @@
 # mlem
-gfd
-sd
-
+NhinTruong
